@@ -9,9 +9,9 @@ minimal_mistakes_skin    :   "dirt"	 #"default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "vi-VN"
-title                    : "Site Title"
+title                    : "AMC's Blog"
 title_separator          : "-"
-name                     : "AMC's BLog"
+name                     : "AMC"
 description              : "Câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội."
 url                      : https://testvon.github.io
 baseurl                  : 
