@@ -4,8 +4,6 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Toán Lý Thuyết"
     url: https://testvon.github.io/testvon.github.io/_posts/theory
-      title: "Giải Tích"
-      url: https://testvon.github.io/testvon.github.io/_posts/theory/calculus
   - title: "Toán Ứng Dụng"
     url: https://testvon.github.io/testvon.github.io/_posts/apply
   - title: "Khoa Học & Công Nghệ"
