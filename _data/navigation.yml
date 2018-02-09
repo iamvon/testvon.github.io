@@ -3,14 +3,14 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Toán Lý Thuyết"
-    url: https://testvon.github.io/_posts/theory
+    url: https://testvon.github.io/testvon.github.io/_posts/theory
       - title: "Giải Tích"
-        url: https://testvon.github.io/_posts/theory/calculus
+        url: https://testvon.github.io/testvon.github.io/_posts/theory/calculus
   - title: "Toán Ứng Dụng"
-    url: https://testvon.github.io/_posts/apply
+    url: https://testvon.github.io/testvon.github.io/_posts/apply
   - title: "Khoa Học & Công Nghệ"
-    url: https://testvon.github.io/_posts/sci&tech
+    url: https://testvon.github.io/testvon.github.io/_posts/sci&tech
   - title: "Chuyện Bên Lề"
-    url: https://testvon.github.io/_posts/others
+    url: https://testvon.github.io/testvon.github.io/_posts/others
   - title: "About"
-    url: https://testvon.github.io/_posts/about  
+    url: https://testvon.github.io/testvon.github.io/_posts/about  
