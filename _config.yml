@@ -16,7 +16,7 @@ description              : "Câu lạc bộ Toán ứng dụng AMC trực thuộ
 url                      : https://testvon.github.io
 baseurl                  : 
 repository               : testvon/testvon.github.io
-teaser                   : /assets/amc.png
+teaser                   : assets/img/amc.png
 breadcrumbs              : true   # false (default)
 words_per_minute         : 200
 comments:
