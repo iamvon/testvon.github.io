@@ -13,7 +13,7 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "AMC's BLog"
 description              : "Câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội."
-url                      : https://testvon.github.io/
+url                      : https://testvon.github.io
 baseurl                  : 
 repository               : testvon/testvon.github.io
 teaser                   : /assets/amc.png
