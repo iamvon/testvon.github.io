@@ -11,5 +11,5 @@ main:
   - title: "Chuyện Bên Lề"
     url: /categories/
   - title: "About"
-    url: /about/
+    url: /_layouts/about/
   
