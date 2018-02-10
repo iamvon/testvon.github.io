@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "sunrise"	 #"default", "air", "aqua", "contrast", "da
 # Site Settings
 locale                   : "vi-VN"
 title                    : "AMC's Blog"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "AMC"
 description              : "Câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội."
 url                      : https://testvon.github.io
