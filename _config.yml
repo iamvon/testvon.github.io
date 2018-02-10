@@ -185,7 +185,13 @@ collections:
     permalink: /:collection/:path/
   apply:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /:collection/:path/
+  sci&tech:
+    output: true
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
 
 # Outputting
 permalink: /:categories/:title/
@@ -272,6 +278,22 @@ defaults:
   - scope:
       path: ""
       type: apply
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
+  - scope:
+      path: ""
+      type: sci&tech
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: others
     values:
       layout: single
       author_profile: true
