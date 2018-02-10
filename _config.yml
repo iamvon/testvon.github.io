@@ -213,23 +213,23 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-theory_archive:
+category_archive:
   type: liquid
-  path: /theory/
-apply_archive:
+  path: /categories/
+tag_archive:
   type: liquid
-  path: /apply/
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
-    - theory
-    - apply
-  layouts:
-    theory: archive-taxonomy
-    apply: archive-taxonomy
-  permalinks:
-    theory: /theory/:name/
-    apply: /apply/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
