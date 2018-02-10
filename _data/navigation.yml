@@ -9,7 +9,7 @@ main:
   - title: "Khoa Học & Công Nghệ"
     url: https://testvon.github.io/testvon.github.io/_posts/sci&tech
   - title: "Chuyện Bên Lề"
-    url: https://testvon.github.io/testvon.github.io/_posts/others
+    url: /others/
   - title: "About"
     url: https://testvon.github.io/testvon.github.io/_posts/about  
   
