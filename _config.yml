@@ -183,6 +183,9 @@ collections:
   theory:
     output: true
     permalink: /:collection/:path/
+  apply:
+    output: true
+    permalink: /:collection/:path/  
 
 # Outputting
 permalink: /:categories/:title/
