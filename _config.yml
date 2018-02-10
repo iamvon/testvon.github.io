@@ -301,6 +301,5 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      date: true
       share: true
       comments: true      
