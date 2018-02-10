@@ -5,7 +5,7 @@ main:
   - title: "Toán Lý Thuyết"
     url: /theory/
   - title: "Toán Ứng Dụng"
-    url: https://testvon.github.io/testvon.github.io/_posts/apply
+    url: /apply/
   - title: "Khoa Học & Công Nghệ"
     url: https://testvon.github.io/testvon.github.io/_posts/sci&tech
   - title: "Chuyện Bên Lề"
