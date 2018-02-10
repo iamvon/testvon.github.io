@@ -7,9 +7,9 @@ main:
   - title: "Toán Ứng Dụng"
     url: /apply/
   - title: "Khoa Học & Công Nghệ"
-    url: https://testvon.github.io/testvon.github.io/_posts/sci&tech
+    url: /sci&tech/
   - title: "Chuyện Bên Lề"
-    url: /categories/
+    url: /others/
   - title: "About"
-    url: /_layouts/about/
+    url: /about/
   
