@@ -14,8 +14,8 @@ title_separator          : "|"
 name                     : "AMC"
 description              : "Câu lạc bộ Toán ứng dụng AMC trực thuộc Hội sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội."
 url                      : https://testvon.github.io
-baseurl                  : /testvon.github.io
-repository               : testvon/testvon.github.io
+baseurl                  : "/testvon.github.io"
+repository               : "testvon/testvon.github.io"
 teaser                   : assets/img/amc.png
 breadcrumbs              : true   # false (default)
 words_per_minute         : 200
