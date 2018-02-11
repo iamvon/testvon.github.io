@@ -1,6 +1,6 @@
 ---
 title: "Test soạn thảo công thức toán học bằng Katex"
-usemathjax: true
+mathjax: true
 ---
 
 ## 1 công thức tính thể tích bằng tích phân:
