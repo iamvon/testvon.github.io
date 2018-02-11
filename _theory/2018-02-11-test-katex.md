@@ -6,6 +6,9 @@ mathjax: true
 $$
 \pi \int_{a}^{b}|f^2(x_{R})-f^2(x_{L})|dx
 $$
-$$ \min_{w \in \mathbb{R}^d} \sum_{i=1}^N{||w^Tx_i - y_i||^2 + \alpha ||w||_1} $$
+
+$$ 
+\min_{w \in \mathbb{R}^d} \sum_{i=1}^N{||w^Tx_i - y_i||^2 + \alpha ||w||_1} 
+$$
 
 
